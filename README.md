@@ -218,7 +218,7 @@ func iniciarJuego() {
 
 <h2 align="justify">Requisitos</h2>
 
-- Dispositivo móvil con sistema operativo iOS/Android
+- Dispositivo móvil con sistema operativo iOS
 
 
 &nbsp;
@@ -233,7 +233,7 @@ func iniciarJuego() {
 
 <p align="justify">Para obtener soporte técnico, reportar errores o proporcionar comentarios, no dudes en contactar.</p>
 
-<p align="justify">¡Esperamos que disfrutes utilizando la Astro Log App para crear tus propias tarjetas de presentación únicas y profesionales!</p>
+<p align="justify">¡Esperamos que disfrutes utilizando la Patronum App!</p>
 
 ---
 <p align="justify">Esta es una descripción general de la funcionalidad y contenido de la aplicación. Para obtener instrucciones detalladas sobre cómo utilizar cada característica, consulta la documentación incluida en la aplicación o comunícate con el desarrollador.</p>
