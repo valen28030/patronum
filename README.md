@@ -237,4 +237,3 @@ func iniciarJuego() {
 
 ---
 <p align="justify">Esta es una descripción general de la funcionalidad y contenido de la aplicación. Para obtener instrucciones detalladas sobre cómo utilizar cada característica, consulta la documentación incluida en la aplicación o comunícate con el desarrollador.</p>
-<img src="https://github.com/valen28030/Astro-Log/assets/167770750/bd3c0dd6-e734-48e9-8cd1-d52a6ba159a9" alt="astro1" width="300">
